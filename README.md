@@ -55,11 +55,6 @@ Developed a YouTube video downloader tool, allowing users to download videos fro
 
 **Project Structure for Big and Complex
 Applications:** Designed and implemented scalable project structures for large and complex web applications, ensuring maintainability, scalability, and ease of collaboration among team members.
-## 🔗 Links:
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hussnaindev.netlify.app/)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussnain-mohsin-368497)
-
 
 
 ## 🤝 Let's Connect:
