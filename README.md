@@ -3,7 +3,7 @@
 
 
 ## 🌟 Welcome to my GitHub repository:
-I'm Hussnain Mohsin, a passionate frontend developer with over three years of experience specializing in React.js. I excel in crafting intuitive user interfaces, optimizing performance, and integrating third-party services to deliver seamless web applications.
+I'm Hussnain Mohsin, a passionate frontend developer with over six years of experience specializing in React.js. I excel in crafting intuitive user interfaces, optimizing performance, and integrating third-party services to deliver seamless web applications.
 
 ## 🚀 About Me:
 I'm dedicated to creating engaging user experiences and resolving technical challenges. My expertise spans across various domains including healthcare, e-commerce, and communication apps.
